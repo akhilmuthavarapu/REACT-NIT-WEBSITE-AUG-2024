@@ -7,7 +7,8 @@ import "./css/home.css"
 import "./css/login.css"
 import "./css/prd.css"
 import "./css/contact.css"
-import Login from './components/Login.tsx'
+
+
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

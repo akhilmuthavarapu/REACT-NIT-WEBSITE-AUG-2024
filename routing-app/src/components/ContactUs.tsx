@@ -22,19 +22,19 @@ export default function () {
 		<div className="col-md-9">
 			<div className="contact-form">
 				<div className="form-group">
-				  <label className="control-label col-sm-2" for="fname">First Name:</label>
+				  <label className="control-label col-sm-2" >First Name:</label>
 				  <div className="col-sm-10">          
 					<input type="text" className="form-control" id="fname" placeholder="Enter First Name" name="fname" />
 				  </div>
 				</div>
 				<div className="form-group">
-				  <label className="control-label col-sm-2" for="lname">Last Name:</label>
+				  <label className="control-label col-sm-2" >Last Name:</label>
 				  <div className="col-sm-10">          
 					<input type="text" className="form-control" id="lname" placeholder="Enter Last Name" name="lname" />
 				  </div>
 				</div>
 				<div className="form-group">
-				  <label className="control-label col-sm-2" for="email">Email:</label>
+				  <label className="control-label col-sm-2">Email:</label>
 				  <div className="col-sm-10">
 					<input type="email" className="form-control" id="email" placeholder="Enter email" name="email" />
 				  </div>
@@ -42,7 +42,7 @@ export default function () {
 				<div className="form-group">
 				  <label className="control-label col-sm-2" htmlFor="comment">Comment:</label>
 				  <div className="col-sm-10">
-					<textarea className="form-control" rows="5" id="comment"></textarea>
+					<textarea className="form-control"  id="comment"></textarea>
 				  </div>
 				</div>
 				<div className="form-group">        

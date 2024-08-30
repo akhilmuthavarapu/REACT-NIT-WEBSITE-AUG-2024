@@ -2,6 +2,7 @@ import React from 'react'
 import NitNav from './NitNav'
 
 export default function Home() {
+
   return (
     <div>
         <NitNav/>
@@ -70,7 +71,7 @@ B.Tech: ₹31,000 (1st-year fees), eligibility: 10+2 with 45% + AP EAMCET </p>
               <p>Lorem ipsum dolor sit amet. Reprehenderit, qui blanditiis quidem rerum 
                 necessitatibus praesentium voluptatum deleniti atque corrupti.</p>
               <a href="#">BUY NOW</a> </div>
-            <div className="col-md-5 col-12 order-md-2 order-1"><img src="https://i.imgur.com/DGkR4OQ.png" className="mx-auto" alt="slide" /></div>
+            <div className="col-md-5 col-12 order-md-2 order-1"><img src="https://media.licdn.com/dms/image/v2/D5622AQE28BeCg32OHw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1692812945216?e=1727913600&v=beta&t=hR8SBAqLTe8amMilXUg_CuBH17R1XjVO3vcWbNb1gUI" className="mx-auto" alt="slide" /></div>
           </div>
         </div>
       </div>

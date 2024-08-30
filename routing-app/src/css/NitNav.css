@@ -2,13 +2,18 @@ body {
     margin: 0;
     padding: 0;
     margin-bottom: 30px;
-    background-color: black;
+    background-image:  linear-gradient(45deg,black,blue,rgb(0, 166, 255),blue,black,gold)
 }
-
+.title{
+    padding-top: 10px;
+    padding-left: 120px;
+    color:gold;
+    font-family: 'Times New Roman', Times, serif;
+}
 a.navbar-brand {
     float: left;
     height: 50px;
-    padding: 15px 15px;
+    padding: 10px 15px;
     font-size: 18px;
     line-height: 20px;
     text-decoration: none;
@@ -28,6 +33,7 @@ nav.main-navigation ul.nav-list {
     list-style: none;
     position: relative;
     text-align: right;
+
 }
 
 .nav-list li.nav-list-item {
@@ -44,7 +50,7 @@ a.nav-link {
     font-weight: 500;
     cursor: pointer;
     position: relative;
-    color: #404040;
+    color: white;
 }
 
 @keyframes FadeIn {

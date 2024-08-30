@@ -27,3 +27,7 @@
 {
     width: 80%;
 }
+.text-muted p
+{
+    color: rgb(236, 241, 241);
+}

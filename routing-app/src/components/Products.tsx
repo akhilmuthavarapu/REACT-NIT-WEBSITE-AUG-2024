@@ -13,7 +13,7 @@ export default function () {
 <div className="how-section1">
                     <div className="row">
                         <div className="col-md-6 how-img">
-                            <img src="https://th.bing.com/th/id/OIP.BNBjxP7aLRGi6kqQgnJ5WAHaEN?w=292&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" className="rounded-circle img-fluid" alt=""/>
+                            <img src="https://media.licdn.com/dms/image/v2/D5622AQHHvuu-vRK-Nw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1693103315837?e=1727913600&v=beta&t=HMn_qJuLFtcteyNCi4vsLq4rVb_NC5peE3GnnKssI_k" className="rounded-circle img-fluid" alt=""/>
                         </div>
                         <div className="col-md-6">
                             <h4>Find rewarding projects</h4>
@@ -32,12 +32,12 @@ export default function () {
                                             Do substantial work with top clients. GetLance pricing encourages freelancers to use GetLance for repeat relationships with their clients.</p>
                         </div>
                         <div className="col-md-6 how-img">
-                            <img src="https://th.bing.com/th/id/OIP.A71-XZxbp-UG7WkVV39E5wHaEw?rs=1&pid=ImgDetMain" className="rounded-circle img-fluid" alt=""/>
+                            <img src="https://media.licdn.com/dms/image/v2/D5622AQHv7_8nC4O5fA/feedshare-shrink_480/feedshare-shrink_480/0/1692447042392?e=1727913600&v=beta&t=z-4gR_UeeNmesK5PzhJg5CM2VYwplthOj_Sfcxq484E" className="rounded-circle img-fluid" alt=""/>
                         </div>
                     </div>
                     <div className="row">
                         <div className="col-md-6 how-img">
-                             <img src="https://www.campusoption.com/images/colleges/gallery/07_09_17_110049_Lab.jpg" className="rounded-circle img-fluid" alt=""/>
+                             <img src="https://media.licdn.com/dms/image/v2/D5622AQHc_dEEoQIz5w/feedshare-shrink_480/feedshare-shrink_480/0/1692630899196?e=1727913600&v=beta&t=NANAB3IyORvPC-ik9QvOB7IU35zQRUxr39HtdOXNpi8" className="rounded-circle img-fluid" alt=""/>
                         </div>
                         <div className="col-md-6">
                             <h4>Work efficiently, effectively.</h4>
@@ -56,7 +56,7 @@ export default function () {
                                             Multiple payment options. Choose a payment method that works best for you, from direct deposit or PayPal to wire transfer and more.</p>
                         </div>
                         <div className="col-md-6 how-img">
-                            <img src="https://image.ibb.co/gQ9iE9/Work_Section2_freelance_img4.png" className="rounded-circle img-fluid" alt=""/>
+                            <img src="https://media.licdn.com/dms/image/v2/D5622AQEpF-QRL6z7BQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1692456376337?e=1727913600&v=beta&t=lQXAa9GJGfcIDQ0PDwFpY3ATf7eBsruUsBccbzzOXP8" className="rounded-circle img-fluid" alt=""/>
                         </div>
                     </div>
                 </div>

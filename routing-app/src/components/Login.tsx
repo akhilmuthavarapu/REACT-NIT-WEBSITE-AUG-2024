@@ -1,6 +1,6 @@
 import React, { FormEvent, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-
+import "../css/login.css"
 
 export default function () {
     const [name,setName]=useState('')
